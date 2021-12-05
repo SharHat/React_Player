@@ -1,0 +1,15 @@
+{
+  "name": "saarthi",
+  "version": "1.0.0",
+  "description": "React Audio Player Webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharath S Hegde",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-audio-waveform": "0.0.5"
+  }
+}
